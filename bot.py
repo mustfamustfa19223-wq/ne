@@ -12,7 +12,7 @@ from threading import Thread
 from datetime import datetime
 
 # ================== ضع بياناتك هنا ==================
-TELEGRAM_TOKEN = "8651602237:AAF-YUYTpPoi9QGPGN9iRgT5dkRKABYMkAU"
+TELEGRAM_TOKEN = "8651602237:AAGH5_QiMz1z2TnSK-OJQVSaQgh1_rtsTiE"
 CHAT_ID = "@Aaldjsuheheisu81872"
 # =====================================================
 
