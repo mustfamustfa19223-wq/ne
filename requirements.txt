@@ -1,0 +1,8 @@
+feedparser
+requests
+deep-translator
+beautifulsoup4
+schedule
+newspaper3k
+lxml
+flask
